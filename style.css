@@ -338,7 +338,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 0.5rem;
+  gap: 3rem;
   justify-content: space-around;
 }
 
@@ -365,9 +365,9 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
-  width: 105%;
-  height: 70%;
+  border-radius: 3rem;
+  width: 155%;
+  height: 80%;
 }
 
 .project-title {
